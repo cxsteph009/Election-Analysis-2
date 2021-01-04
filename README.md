@@ -3,7 +3,7 @@
 ## Challenge Overview
 In this Challenge, I am assisting in a tabulation audit of an election conducted by the Colorado Board of Elections. 
 It is my task to report on the total number of votes cast, the total number of votes cast by county and their
-respective percentages, the total number of votes cast for each candidate and their percentage of the toal vote, and the winner of the election.
+respective percentages, the total number of votes cast for each candidate and their percentage of the total vote, and the winner of the election.
 I will be using Python to automate the audit process. It is my responsibility to produce a vote count report to certify the election. 
 Another goal of this project is to obtain a working product that will be used to audit future elections. 
 
