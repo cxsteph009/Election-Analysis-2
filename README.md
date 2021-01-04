@@ -26,3 +26,4 @@ Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio Code 1.38.1
 
 ## Election-Audit Summary
+We are pleased to offer this Audit Script Proposal for your review and approval. The solution detailed in this proposal has been created with your needs in mind, and we are confident you’ll find that it offers great value to your organization. The Audit Script is designed to support election audits of various sizes and complexity by automating the audit process and reporting election results. The program can be used to report additional data, if desired. Such options include a vote count by date or an audit of voter id's to ensure each voter id is unique.
