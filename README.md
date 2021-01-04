@@ -7,12 +7,14 @@
   * Jefferson: 10.5% (38,855)
   * Denver: 82.8% (306,055)
   * Arapahoe: 6.7% (24,801).
-* Which county had the largest number of votes?
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+* Denver recorded the highest number of votes by county with 306,055 total votes.  
+* The breakdown of the number of votes and the percentage of the total votes each candidate received is as follows:
+  * Charles Casper Stockham: 23.0% (85,213)
+  * Diana DeGette: 73.8% (272,892)
+  * Raymon Anthony Doane: 3.1% (11,606)
+* Diana DeGette won the election with 272,892 total votes, representing 73.8% of the total votes cast.
 
-
-## Resources
+# Resources
 Data Source: election_results.csv
 Software: Python 3.7.6, Visual Studio Code 1.38.1
 
